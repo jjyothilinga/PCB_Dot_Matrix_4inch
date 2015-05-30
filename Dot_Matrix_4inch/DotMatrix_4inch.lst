@@ -1,0 +1,56 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 5/27/2015 11:08:18 AM
+#Cmp ( order = Reference )
+| DS1        CMD-5571X00 
+| DS2        CMD-5571X00 
+| DS3        CMD-5571X00 
+| DS4        CMD-5571X00 
+| P1         CONN_24     
+| P3         CONN_8      
+| P4         CONN_2      
+| P5         CONN_2      
+| P6         CONN_8X2    
+| P7         CONN_8      
+| Q1         TIP127      
+| Q2         TIP127      
+| Q3         TIP127      
+| Q4         TIP127      
+| Q5         TIP127      
+| Q6         TIP127      
+| Q7         TIP127      
+| R1         R           
+| R2         R           
+| R3         R           
+| R4         R           
+| R5         R           
+| R6         R           
+| R7         R           
+#End Cmp
+
+#Cmp ( order = Value )
+| CMD-5571X00  DS1       
+| CMD-5571X00  DS2       
+| CMD-5571X00  DS3       
+| CMD-5571X00  DS4       
+| CONN_24      P1        
+| CONN_8       P3        
+| CONN_2       P4        
+| CONN_2       P5        
+| CONN_8       P7        
+| CONN_8X2     P6        
+| TIP127       Q1        
+| TIP127       Q2        
+| TIP127       Q3        
+| TIP127       Q4        
+| TIP127       Q5        
+| TIP127       Q6        
+| TIP127       Q7        
+| R            R1        
+| R            R2        
+| R            R3        
+| R            R4        
+| R            R5        
+| R            R6        
+| R            R7        
+#End Cmp
+
+#End List

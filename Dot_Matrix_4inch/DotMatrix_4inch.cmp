@@ -1,0 +1,171 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 12/2/2014 2:02:17 PM
+
+BeginCmp
+TimeStamp = /54732E3F;
+Reference = DS1;
+ValeurCmp = CMD-5571X00;
+IdModule  = dotdisp_4_inch;
+EndCmp
+
+BeginCmp
+TimeStamp = /54732E45;
+Reference = DS2;
+ValeurCmp = CMD-5571X00;
+IdModule  = dotdisp_4_inch;
+EndCmp
+
+BeginCmp
+TimeStamp = /54732E4B;
+Reference = DS3;
+ValeurCmp = CMD-5571X00;
+IdModule  = dotdisp_4_inch;
+EndCmp
+
+BeginCmp
+TimeStamp = /54732EA4;
+Reference = DS4;
+ValeurCmp = CMD-5571X00;
+IdModule  = dotdisp_4_inch;
+EndCmp
+
+BeginCmp
+TimeStamp = /54735D24;
+Reference = P1;
+ValeurCmp = CONN_24;
+IdModule  = SIL-24;
+EndCmp
+
+BeginCmp
+TimeStamp = /54734391;
+Reference = P3;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5473A4EB;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = mors_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = /5473A972;
+Reference = P5;
+ValeurCmp = CONN_2;
+IdModule  = mors_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472E09E;
+Reference = P6;
+ValeurCmp = CONN_8X2;
+IdModule  = pin_array_8x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472F259;
+Reference = P7;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /54733ADF;
+Reference = Q1;
+ValeurCmp = TIP127;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54733AF2;
+Reference = Q2;
+ValeurCmp = TIP127;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54733AEC;
+Reference = Q3;
+ValeurCmp = TIP127;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54733B11;
+Reference = Q4;
+ValeurCmp = TIP127;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54733B17;
+Reference = Q5;
+ValeurCmp = TIP127;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54733B1D;
+Reference = Q6;
+ValeurCmp = TIP127;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54733B23;
+Reference = Q7;
+ValeurCmp = TIP127;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /547343D7;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /547343E4;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /547343EA;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /547343F0;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /547343F6;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /547343FC;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54734402;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = R4;
+EndCmp
+
+EndListe
